@@ -26,4 +26,4 @@ This web app supports 6 profile types:
 * Material UI
 
 # Demo
-Live view by clicking this link: [Live Demo](bola-82857.web.app)
+Live view by clicking this link: [Live Demo](https://bola-82857.web.app/)
