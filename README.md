@@ -19,7 +19,7 @@ This web app supports 6 profile types:
 6. Student User
 
 # Technologies Used
-* React JS <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+* <p> React JS <img style={{vertical-align:meddle}} src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p>
 * Redux
 * React Router
 * React Query
