@@ -8,6 +8,7 @@ Academic Path System - is a web app dedicated to universities, it manages academ
 This project was created for a college graduation project.
 I developed the front-end part of the website.
 <br/>
+
 ![image](https://github.com/noorit2/AcademicPathSystem/assets/88791090/6043788d-bcfc-47a5-8ca4-5ddc8498ceb5)
 
 # Project Setup
