@@ -2,8 +2,9 @@
 Academic Path System - is a web app dedicated to universities, it manages academic processes, including student enrollment, grade registration, and attendance tracking, aligning with the *Bologna* process requirements.
 <div style={{text-align:left}} ><img src="https://github.com/noorit2/AcademicPathSystem/assets/88791090/a1d7c1eb-8a4d-4b68-b1bb-caa919af7543" width="150" textAlign="left"/></div>
 <br/>
-
-
+<br/>
+<br/>
+<br/>
 This project was created for a college graduation project.
 I developed the front-end part of the website.
 
