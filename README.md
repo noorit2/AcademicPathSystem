@@ -23,8 +23,7 @@ This web app supports 6 profile types:
 * Redux  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 * React Router <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 * React Query
-* Material UI <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=materialui&logoColor=white
-"/>
+* Material UI <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=materialui&logoColor=white"/>
 
 # Demo
 Live view by clicking this link: [Live Demo](https://bola-82857.web.app/)
